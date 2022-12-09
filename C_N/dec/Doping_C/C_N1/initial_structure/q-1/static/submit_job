@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#PBS -N fudan
+
+#PBS -l nodes=1:ppn=96
+
+#PBS -q batch
+
+#PBS -l walltime=24:00:00
+
+cd $PBS_O_WORKDIR
+
+NP=`cat $PBS_NODEFILE | wc -l`
+
+ulimit -s unlimited
+
+mpirun -np $NP /opt/vasp.5.4.4/bin/vasp_gam | tee vasp.out

@@ -1,0 +1,152 @@
+Defect position = 0.999999 0.99988 0.25012
+job = nd has been done
+
+job = id has been done
+
+The formation energy (neutral) of Ge_Zn1 at p1 is 2.689606
+The formation energy (neutral) of Ge_Zn1 at p2 is 1.755206
+The formation energy (neutral) of Ge_Zn1 at p3 is 2.073806
+The formation energy (neutral) of Ge_Zn1 at p4 is 2.769306
+The transition level  (-/0) above VBM: 2.0216
+The transition level  (2-/0) above VBM: 1.9884
+The transition level (0/3+) above VBM: 0.8442
+The transition level (0/+) above VBM: 1.3874
+The transition level (0/4+) above VBM: 0.6782
+The transition level (0/2+) above VBM: 1.271
+
+The formation energy (Ef = VBM) at p1 is: 
+-1: 4.71116 
+-2: 6.666457 
+3: 0.156919 
+0: 2.689606 
+1: 1.302187 
+4: -0.023234 
+2: 0.14756 
+
+The formation energy (Ef = VBM) at p2 is: 
+-1: 3.77676 
+-2: 5.732057 
+3: -0.777481 
+0: 1.755206 
+1: 0.367787 
+4: -0.957634 
+2: -0.78684 
+
+The formation energy (Ef = VBM) at p3 is: 
+-1: 4.09536 
+-2: 6.050657 
+3: -0.458881 
+0: 2.073806 
+1: 0.686387 
+4: -0.639034 
+2: -0.46824 
+
+The formation energy (Ef = VBM) at p4 is: 
+-1: 4.79086 
+-2: 6.746157 
+3: 0.236619 
+0: 2.769306 
+1: 1.381887 
+4: 0.056466 
+2: 0.22726 
+
+job = fe has been done
+
+The formation energy (neutral) of Ge_Zn1 at p1 is 2.689606
+The formation energy (neutral) of Ge_Zn1 at p2 is 1.755206
+The formation energy (neutral) of Ge_Zn1 at p3 is 2.073806
+The formation energy (neutral) of Ge_Zn1 at p4 is 2.769306
+The transition level  (-/0) above VBM: 2.0968
+The transition level  (2-/0) above VBM: 2.1061
+The transition level (0/3+) above VBM: 0.8121
+The transition level (0/+) above VBM: 1.428
+The transition level (0/4+) above VBM: 0.5664
+The transition level (0/2+) above VBM: 1.319
+
+The formation energy (Ef = VBM) at p1 is: 
+-1: 4.751072 
+-2: 6.826105 
+3: 0.516126 
+0: 2.689606 
+1: 1.342099 
+4: 0.615356 
+2: 0.307207 
+
+The formation energy (Ef = VBM) at p2 is: 
+-1: 3.816672 
+-2: 5.891705 
+3: -0.418274 
+0: 1.755206 
+1: 0.407699 
+4: -0.319044 
+2: -0.627193 
+
+The formation energy (Ef = VBM) at p3 is: 
+-1: 4.135272 
+-2: 6.210305 
+3: -0.099674 
+0: 2.073806 
+1: 0.726299 
+4: -0.000444 
+2: -0.308593 
+
+The formation energy (Ef = VBM) at p4 is: 
+-1: 4.830772 
+-2: 6.905805 
+3: 0.595826 
+0: 2.769306 
+1: 1.421799 
+4: 0.695056 
+2: 0.386907 
+
+job = fe has been done
+
+The formation energy (neutral) of Ge_Zn1 at p1 is 2.689606
+The formation energy (neutral) of Ge_Zn1 at p2 is 1.755206
+The formation energy (neutral) of Ge_Zn1 at p3 is 2.073806
+The formation energy (neutral) of Ge_Zn1 at p4 is 2.769306
+The transition level  (-/0) above VBM: 2.1376
+The transition level  (2-/0) above VBM: 2.1745
+The transition level (0/3+) above VBM: 0.7513
+The transition level (0/+) above VBM: 1.4203
+The transition level (0/4+) above VBM: 0.4786
+The transition level (0/2+) above VBM: 1.2858
+
+The formation energy (Ef = VBM) at p1 is: 
+-1: 4.827239 
+-2: 7.038679 
+3: 0.435687 
+0: 2.689606 
+1: 1.269312 
+4: 0.775218 
+2: 0.118003 
+
+The formation energy (Ef = VBM) at p2 is: 
+-1: 3.892839 
+-2: 6.104279 
+3: -0.498713 
+0: 1.755206 
+1: 0.334912 
+4: -0.159182 
+2: -0.816397 
+
+The formation energy (Ef = VBM) at p3 is: 
+-1: 4.211439 
+-2: 6.422879 
+3: -0.180113 
+0: 2.073806 
+1: 0.653512 
+4: 0.159418 
+2: -0.497797 
+
+The formation energy (Ef = VBM) at p4 is: 
+-1: 4.906939 
+-2: 7.118379 
+3: 0.515387 
+0: 2.769306 
+1: 1.349012 
+4: 0.854918 
+2: 0.197703 
+
+job = fe has been done
+

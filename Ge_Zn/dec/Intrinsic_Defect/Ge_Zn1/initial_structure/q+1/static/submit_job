@@ -1,0 +1,19 @@
+#!/bin/sh
+
+#SBATCH -N 4
+
+#SBATCH -J cai
+
+#SBATCH -n 128
+
+#SBATCH --ntasks-per-node=32
+
+#SBATCH --partition=normal
+
+#SBATCH --output=%j.out
+
+#SBATCH --error=%j.err
+
+#SBATCH --time=24:00:00
+
+mpirun -n 128 /opt/vasp.5.4.4/bin/vasp_gam > vasp.out 2>&1
