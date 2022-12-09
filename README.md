@@ -1,6 +1,6 @@
 # Nonradiative_DASP
 # Description
-For DASP users, the files in C_N and Ge_Zn are the input files needed for nonradiative capture calculation. These files are the output results of DASP-DEC for defect energetics, with formation energies and transition levels printed in `defect.log`. Taking C_N as an example, what you need to do is:
+For DASP users, the files in C_N and Ge_Zn are the input files needed for reproducing the results of nonradiative capture calculation in the documentation. These files are the output results of DASP-DEC for defect energetics, with formation energies and transition levels printed in `defect.log`. Taking C_N as an example, what you need to do is:
 
 - cd C_N/
 - properly modify `Job Scheduling` part in `dasp.in`, so that DASP can do automated calculations with one click.
