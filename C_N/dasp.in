@@ -1,0 +1,38 @@
+############## Job Scheduling ##############
+cluster = SLURM     # (job scheduling system)
+node_number = 2         # (number of node)
+core_per_node = 52      # (core per node)
+queue = compute2     # (name of queue/partition)
+max_time = 96:00:00        # (maximum time for a single DFT calculation)
+vasp_path_tsc = ********* #  (your own path of VASP)
+vasp_path_dec = ********* #  (your own path VASP)
+vasp_path_cdc = ********* #  (your own path of VASP with WAVEDERF printed)
+job_name = submit_job    # (name of the script)
+#submit_name = CDC    # (name of the submitted job)
+potcar_path = ******/potpaw_PBE    # (path of pseudopotentials)
+
+############## TSC Module ##############
+database_api = ****************** # (your own API of MP database)
+
+############## DEC Module ##############
+level = 3   # (level=1: PBE+PBE; level=2: PBE+HSE; level=3: HSE+HSE)
+min_atom = 128
+max_atom = 128 
+intrinsic = F   # (default: T)
+doping = T    # (default: F)
+impurity = C   # (element name; str type)
+correction = LZ   # (default: none)
+epsilon = 10.0
+Eg_real = 3.6   # (experimental band gap)
+
+############## DDC Module ##############
+
+
+############## CDC Module ##############
+cdc_job = nonrad_rate 
+cdc_defect = C_N1
+cdc_charge = -1 0   # (charge transition; hole capture)
+cdc_temperature = 300
+cdc_band = 253 256
+spin_channel = 2
+fitting_method = parabolic
